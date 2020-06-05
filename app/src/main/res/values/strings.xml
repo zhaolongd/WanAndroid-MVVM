@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WanAndroid</string>
+
+    <!-- bottom title -->
+    <string name="title_home">首页</string>
+    <string name="title_structure">体系</string>
+    <string name="title_public">公众号</string>
+    <string name="title_nav">导航</string>
+    <string name="title_project">项目</string>
+    <string name="title_wenda">问答</string>
+
+    <string name="more">更多</string>
+
+</resources>

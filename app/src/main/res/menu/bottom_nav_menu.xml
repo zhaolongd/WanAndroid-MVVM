@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:title="@string/title_home"
+        android:icon="@drawable/bottom_tab_home" />
+    <item
+        android:id="@+id/navigation_wenda"
+        android:title="@string/title_wenda"
+        android:icon="@drawable/bottom_tab_wenda" />
+    <item
+        android:id="@+id/navigation_public"
+        android:title="@string/title_public"
+        android:icon="@drawable/bottom_tab_public" />
+    <item
+        android:id="@+id/navigation_structure"
+        android:title="@string/title_structure"
+        android:icon="@drawable/bottom_tab_structure" />
+    <item
+        android:id="@+id/navigation_project"
+        android:title="@string/title_project"
+        android:icon="@drawable/bottom_tab_project" />
+</menu>
